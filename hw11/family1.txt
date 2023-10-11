@@ -1,0 +1,8 @@
+John/80/2,NULL,NULL,James,Margaret
+Mary/60/2,NULL,NULL,NULL
+James/60/0,John,Mary,NULL
+Margaret/50/1,John,Mary,Charles
+George/40/1,NULL,NULL,NULL
+Charles/40/1,George,Margaret,Anne
+Elizabeth/40/1,NULL,NULL,NULL
+Anne/20/0,Charles,Elizabeth,NULL

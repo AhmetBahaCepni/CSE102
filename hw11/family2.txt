@@ -1,0 +1,11 @@
+jackson/80/3,NULL,NULL,thomas,christopher,abigail
+evelyn/80/3,NULL,NULL,NULL
+thomas/60/2,jackson,evelyn,ava,daniel
+isabella/60/2,NULL,NULL,NULL
+ava/40/0,thomas,isabella,NULL
+daniel/40/0,thomas,isabella,NULL
+christopher/60/0,jackson,evelyn,NULL
+abigail/60/2,jackson,evelyn,amelia,arthur
+joseph/60/2,NULL,NULL,NULL
+amelia/40/0,joseph,abigail,NULL
+arthur/30/0,joseph,abigail,NULL
