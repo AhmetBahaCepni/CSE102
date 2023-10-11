@@ -1,0 +1,13 @@
+sID,pID,branch,current_stock
+1,1,Paris,123
+2,4,Kocaeli,30
+3,3,Mersin,100
+4,7,Mersin,12
+5,31,Kocaeli,31
+6,6,Antalya,31
+7,20,Paris,22
+8,10,Londra,1235
+9,43,Moskow,122
+10,8,Sariyer,0
+11,22,Kocaeli,77
+12,3,Rize,77
